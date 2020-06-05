@@ -1,0 +1,9 @@
+.graph {
+	height: 100vh;
+}
+
+.edit {
+	position: absolute;
+	top: 24px;
+	right: 24px;
+}
